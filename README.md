@@ -11,7 +11,7 @@ Begin by installing the package through Composer. Edit your project's `composer.
   }
   ```
 
-Next use Composer to update your project from the the Terminal:
+Next, use Composer to update your project from the the Terminal:
 
   ```php
   php composer.phar update
@@ -35,10 +35,10 @@ Then, you need to publish the package configuration:
   php artisan config:publish aeyoll/laravel-free-mobile-notification-sender
   ```
 
-Finally, add you userid and apikey from your user profile on mobile.free.fr in the `app/config/packages/aeyoll/laravel-free-mobile-notification-sender/config.php` file.
+Finally, add you `userid` and `apikey` from your user profile on mobile.free.fr in the `app/config/packages/aeyoll/laravel-free-mobile-notification-sender/config.php` file.
 
 ## Usage
-Once you've followed all the steps and completed the installation you can use LaravelFreeMobileNotificationSender.
+Once you've followed all the steps and completed the installation you can use `LaravelFreeMobileNotificationSender`.
 
 ### Sending message
 You can simply send a message by doing this:
