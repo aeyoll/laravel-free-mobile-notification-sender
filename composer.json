@@ -1,7 +1,8 @@
 {
     "name": "aeyoll/laravel-free-mobile-notification-sender",
-    "description": "",
+    "description": "Laravel wrapper for FreemobileNotificationSender",
     "keywords": ["laravel", "free mobile", "sms", "api"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Jean-Philippe Bidegain",
