@@ -11,10 +11,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
-    },
-    "require-dev": {
-        "tibounise/freemobilenotificationsender": "dev-master"
+        "illuminate/support": "4.2.*",
+        "tibounise/freemobilenotificationsender": "1.*"
     },
     "autoload": {
         "psr-0": {
