@@ -7,7 +7,7 @@ Begin by installing the package through Composer. Edit your project's `composer.
 
   ```php
   "require": {
-    "aeyoll/laravel-free-mobile-notification-sender": "dev-master"
+    "aeyoll/laravel-free-mobile-notification-sender": "1.*"
   }
   ```
 
