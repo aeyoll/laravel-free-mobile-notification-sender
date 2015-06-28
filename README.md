@@ -1,5 +1,7 @@
 # LaravelFreeMobileNotificationSender
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/fe1f7c0d-cd9d-4782-89db-9e39032a0625/mini.png)](https://insight.sensiolabs.com/projects/fe1f7c0d-cd9d-4782-89db-9e39032a0625)
+
 This package is a Laravel wrapper for FreemobileNotificationSender (https://github.com/tibounise/FreemobileNotificationSender)
 
 ## Installation
